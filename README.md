@@ -6,4 +6,4 @@ Exercícios para estudo de Lógica e de Programação C++
 
 * Cálculo do termo da Sequência Fetuccine
 
-* Calcular série da Sequência Fetuccine e somatório dos termos
+* Cálculo série da Sequência Fetuccine e somatório dos termos
